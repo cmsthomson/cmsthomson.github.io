@@ -19,8 +19,8 @@
       url: "mailto:username@domain.com"
 - key: projects
   value:
-    - discord team randomizer bot
-    -url: https://github.com
+    - value: discord team randomizer bot
+    - url: https://github.com
 - key: profiles
   value:
     - value: blog
