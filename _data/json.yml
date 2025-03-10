@@ -1,38 +1,29 @@
-- key: Name
+- key: Christopher Thomson
   value: Place Holder
 - key: Description
   value:
     - Hello!
-    - This tiny website
-    - Looks like JSON
+    - Im new to Software Development and am looking for work!
+    - Eager to learn and apply my newly found skills
   typed: true
 - key: CV
   value: cv.pdf
   url: /cv.pdf
-- key: Address
+- key: Location
   value:
-    - University of Jekyll
-    - Department of Themes
-    - 123 Main St, Anytown, USA
+    - London, UK
 - key: Contact
   value:
-    - key: Office
-      value: Foobar Hall 1.23
     - key: Phone
-      value: +1 234 567 890
+      value: 0789 624 7889 
     - key: Email
-      value: username@domain.com
+      value: cmsthomson@gmail.com
       url: "mailto:username@domain.com"
-- key: Source
-  value: piazzai/hacked-jekyll
-  url: https://github.com/piazzai/hacked-jekyll
 - key: Profiles
   value:
-    - value: Instagram
-      url: https://www.instagram.com
+    - value: Blog
+      url: /blog
     - value: LinkedIn
       url: https://www.linkedin.com
-    - value: StackOverflow
-      url: https://stackoverflow.com
     - value: GitHub
       url: https://github.com
