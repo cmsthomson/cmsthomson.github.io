@@ -1,29 +1,35 @@
-- key: Name
-  value: Christopher Thomson
-- key: Description
+- key: name
+  value: christopher thomson
+- key: description
   value:
-    - Hello!
-    - Im new to Software Development and am looking for work!
-    - Eager to learn and apply my newly found skills
+    - im new to software development and looking for work!
+    - eager to learn and apply my newly found skills
+    - please feel free to contact me or check out my projects
+    - check out my interests/hobbies in my blog
   typed: true
+- key: location
+  value:
+    - london, uk
+- key: contact
+  value:
+    - key: phone
+      value: 0789 624 7889 
+    - key: email
+      value: cmsthomson@gmail.com
+      url: "mailto:username@domain.com"
+- key: projects
+  value:
+    - discord team randomizer bot
+    -url: https://github.com
+- key: profiles
+  value:
+    - value: blog
+      url: /blog
+    - value: linkedin
+      url: https://www.linkedin.com
+    - value: github
+      url: https://github.com
 - key: CV
   value: cv.pdf
   url: /cv.pdf
-- key: Location
-  value:
-    - London, UK
-- key: Contact
-  value:
-    - key: Phone
-      value: 0789 624 7889 
-    - key: Email
-      value: cmsthomson@gmail.com
-      url: "mailto:username@domain.com"
-- key: Profiles
-  value:
-    - value: Blog
-      url: /blog
-    - value: LinkedIn
-      url: https://www.linkedin.com
-    - value: GitHub
-      url: https://github.com
+      
