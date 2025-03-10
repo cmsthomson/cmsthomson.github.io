@@ -5,6 +5,9 @@ url: https://cmsthomson.github.io
 
 remote_theme: hacked-jekyll
 
+quotes: values
+lowercase: keys
+
 exclude:
   - LICENSE
   - README.md
