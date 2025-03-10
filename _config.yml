@@ -20,9 +20,9 @@ plugins:
 sass:
   sourcemap: never
 
-color_text: gray-2
+color_text: gray-0
 color_punct: gray-5
-color_key: blue-5
-color_value: cyan-5
-color_hover: blue-6
+color_key: gray-4
+color_value: gray-6
+color_hover: gray-7
 
