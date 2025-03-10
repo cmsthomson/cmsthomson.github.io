@@ -8,8 +8,7 @@
     - check out my interests/hobbies in my blog
   typed: true
 - key: location
-  value:
-    - london, uk
+  value: london, uk
 - key: contact
   value:
     - key: phone
@@ -19,7 +18,11 @@
       url: "mailto:username@domain.com"
 - key: projects
   value:
-    - value: discord team randomizer bot
+    - key: discord bot
+      value: fetches members within a call and sorts them into random teams for online games
+      url: https://github.com
+    - key: coming soon
+      value: wip will be finished soon
     - url: https://github.com
 - key: profiles
   value:
