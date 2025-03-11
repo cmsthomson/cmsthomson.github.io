@@ -15,7 +15,7 @@
       value: 0789 624 7889 
     - key: email
       value: cmsthomson@gmail.com
-      url: "mailto:username@domain.com"
+      url: "mailto:cmsthomson@gmail.com"
 - key: projects
   value:
     - key: discord bot
