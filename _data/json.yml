@@ -27,8 +27,8 @@
 - key: profiles
   value:
     - value: blog
-      url: /blog
       newtab: false
+      url: /blog
     - value: linkedin
       url: https://www.linkedin.com/in/cmsthomson
     - value: github
