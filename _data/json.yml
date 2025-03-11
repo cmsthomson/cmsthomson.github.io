@@ -28,6 +28,7 @@
   value:
     - value: blog
       url: /blog
+      newtab: false
     - value: linkedin
       url: https://www.linkedin.com
     - value: github
