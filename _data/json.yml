@@ -20,10 +20,10 @@
   value:
     - key: discord bot
       value: fetches members within a call and sorts them into random teams for online games
-      url: https://github.com
+      url: https://github.com/cmsthomson/discord-team-picker
     - key: coming soon
       value: wip will be finished soon
-      url: https://github.com
+      url: https://github.com/cmsthomson
 - key: profiles
   value:
     - value: blog
@@ -31,7 +31,7 @@
     - value: linkedin
       url: https://www.linkedin.com
     - value: github
-      url: https://github.com
+      url: https://github.com/cmsthomson
 - key: CV
   value: cv.pdf
   url: /cv.pdf
